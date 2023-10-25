@@ -97,6 +97,7 @@
 		E525799C2AE97E03000A740D /* WorldSwiftData */ = {
 			isa = PBXGroup;
 			children = (
+				E52579CD2AE9852E000A740D /* Resources */,
 				E525799D2AE97E03000A740D /* AppDelegate.swift */,
 				E525799F2AE97E03000A740D /* SceneDelegate.swift */,
 				E52579A12AE97E03000A740D /* ViewController.swift */,
@@ -122,6 +123,13 @@
 				E52579C02AE97E04000A740D /* WorldSwiftDataUITestsLaunchTests.swift */,
 			);
 			path = WorldSwiftDataUITests;
+			sourceTree = "<group>";
+		};
+		E52579CD2AE9852E000A740D /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
