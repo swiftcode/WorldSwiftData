@@ -1,0 +1,2953 @@
+[
+    {
+        "abbr": "AL",
+        "name": "Alabama",
+        "capital": "Montgomery",
+        "lat": "32.361538",
+        "long": "-86.279118",
+        "continent": "North America",
+        "flag": "Flag_of_Alabama",
+    "type": "state"
+    },
+    {
+        "abbr": "AK",
+        "name": "Alaska",
+        "capital": "Juneau",
+        "lat": "58.301935",
+        "long": "-134.419740",
+        "continent": "North America",
+        "flag": "Flag_of_Alaska",
+    "type": "state"
+    },
+    {
+        "abbr": "AZ",
+        "name": "Arizona",
+        "capital": "Phoenix",
+        "lat": "33.448457",
+        "long": "-112.073844",
+        "continent": "North America",
+        "flag": "Flag_of_Arizona",
+    "type": "state"
+    },
+    {
+        "abbr": "AR",
+        "name": "Arkansas",
+        "capital": "Little Rock",
+        "lat": "34.736009",
+        "long": "-92.331122",
+        "continent": "North America",
+        "flag": "Flag_of_Arkansas",
+    "type": "state"
+    },
+    {
+        "abbr": "CA",
+        "name": "California",
+        "capital": "Sacramento",
+        "lat": "38.555605",
+        "long": "-121.468926",
+        "continent": "North America",
+        "flag": "Flag_of_California",
+    "type": "state"
+    },
+    {
+        "abbr": "CO",
+        "name": "Colorado",
+        "capital": "Denver",
+        "lat": "39.7391667",
+        "long": "-104.984167",
+        "continent": "North America",
+        "flag": "Flag_of_Colorado",
+    "type": "state"
+    },
+    {
+        "abbr": "CT",
+        "name": "Connecticut",
+        "capital": "Hartford",
+        "lat": "41.767",
+        "long": "-72.677",
+        "continent": "North America",
+        "flag": "Flag_of_Connecticut",
+    "type": "state"
+    },
+    {
+        "abbr": "DE",
+        "name": "Delaware",
+        "capital": "Dover",
+        "lat": "39.161921",
+        "long": "-75.526755",
+        "continent": "North America",
+        "flag": "Flag_of_Delaware",
+    "type": "state"
+    },
+    {
+        "abbr": "FL",
+        "name": "Florida",
+        "capital": "Tallahassee",
+        "lat": "30.4518",
+        "long": "-84.27277",
+        "continent": "North America",
+        "flag": "Flag_of_Florida",
+    "type": "state"
+    },
+    {
+        "abbr": "GA",
+        "name": "Georgia",
+        "capital": "Atlanta",
+        "lat": "33.76",
+        "long": "-84.39",
+        "continent": "North America",
+        "flag": "Flag_of_Georgia_US",
+    "type": "state"
+    },
+    {
+        "abbr": "HI",
+        "name": "Hawaii",
+        "capital": "Honolulu",
+        "lat": "21.30895",
+        "long": "-157.826182",
+        "continent": "North America",
+        "flag": "Flag_of_Hawaii",
+    "type": "state"
+    },
+    {
+        "abbr": "ID",
+        "name": "Idaho",
+        "capital": "Boise",
+        "lat": "43.613739",
+        "long": "-116.237651",
+        "continent": "North America",
+        "flag": "Flag_of_Idaho",
+    "type": "state"
+    },
+    {
+        "abbr": "IL",
+        "name": "Illinois",
+        "capital": "Springfield",
+        "lat": "39.783250",
+        "long": "-89.650373",
+        "continent": "North America",
+        "flag": "Flag_of_Illinois",
+    "type": "state"
+    },
+    {
+        "abbr": "IN",
+        "name": "Indiana",
+        "capital": "Indianapolis",
+        "lat": "39.790942",
+        "long": "-86.147685",
+        "continent": "North America",
+        "flag": "Flag_of_Indiana",
+    "type": "state"
+    },
+    {
+        "abbr": "IA",
+        "name": "Iowa",
+        "capital": "Des Moines",
+        "lat": "41.590939",
+        "long": "-93.620866",
+        "continent": "North America",
+        "flag": "Flag_of_Iowa",
+    "type": "state"
+    },
+    {
+        "abbr": "KS",
+        "name": "Kansas",
+        "capital": "Topeka",
+        "lat": "39.04",
+        "long": "-95.69",
+        "continent": "North America",
+        "flag": "Flag_of_Kansas",
+    "type": "state"
+    },
+    {
+        "abbr": "KY",
+        "name": "Kentucky",
+        "capital": "Frankfort",
+        "lat": "38.197274",
+        "long": "-84.86311",
+        "continent": "North America",
+        "flag": "Flag_of_Kentucky",
+    "type": "state"
+    },
+    {
+        "abbr": "LA",
+        "name": "Louisiana",
+        "capital": "Baton Rouge",
+        "lat": "30.45809",
+        "long": "-91.140229",
+        "continent": "North America",
+        "flag": "Flag_of_Louisiana",
+    "type": "state"
+    },
+    {
+        "abbr": "ME",
+        "name": "Maine",
+        "capital": "Augusta",
+        "lat": "44.323535",
+        "long": "-69.765261",
+        "continent": "North America",
+        "flag": "Flag_of_Maine",
+    "type": "state"
+    },
+    {
+        "abbr": "MD",
+        "name": "Maryland",
+        "capital": "Annapolis",
+        "lat": "38.972945",
+        "long": "-76.501157",
+        "continent": "North America",
+        "flag": "Flag_of_Maryland",
+    "type": "state"
+    },
+    {
+        "abbr": "MA",
+        "name": "Massachusetts",
+        "capital": "Boston",
+        "lat": "42.2352",
+        "long": "-71.0275",
+        "continent": "North America",
+        "flag": "Flag_of_Massachusetts",
+    "type": "state"
+    },
+    {
+        "abbr": "MI",
+        "name": "Michigan",
+        "capital": "Lansing",
+        "lat": "42.7335",
+        "long": "-84.5467",
+        "continent": "North America",
+        "flag": "Flag_of_Michigan",
+    "type": "state"
+    },
+    {
+        "abbr": "MN",
+        "name": "Minnesota",
+        "capital": "Saint Paul",
+        "lat": "44.95",
+        "long": "-93.094",
+        "continent": "North America",
+        "flag": "Flag_of_Minnesota",
+    "type": "state"
+    },
+    {
+        "abbr": "MS",
+        "name": "Mississippi",
+        "capital": "Jackson",
+        "lat": "32.320",
+        "long": "-90.207",
+        "continent": "North America",
+        "flag": "Flag_of_Mississippi",
+    "type": "state"
+    },
+    {
+        "abbr": "MO",
+        "name": "Missouri",
+        "capital": "Jefferson City",
+        "lat": "38.572954",
+        "long": "-92.189283",
+        "continent": "North America",
+        "flag": "Flag_of_Missouri",
+    "type": "state"
+    },
+    {
+        "abbr": "MT",
+        "name": "Montana",
+        "capital": "Helena",
+        "lat": "46.595805",
+        "long": "-112.027031",
+        "continent": "North America",
+        "flag": "Flag_of_Montana",
+    "type": "state"
+    },
+    {
+        "abbr": "NE",
+        "name": "Nebraska",
+        "capital": "Lincoln",
+        "lat": "40.809868",
+        "long": "-96.675345",
+        "continent": "North America",
+        "flag": "Flag_of_Nebraska",
+    "type": "state"
+    },
+    {
+        "abbr": "NV",
+        "name": "Nevada",
+        "capital": "Carson City",
+        "lat": "39.160949",
+        "long": "-119.753877",
+        "continent": "North America",
+        "flag": "Flag_of_Nevada",
+    "type": "state"
+    },
+    {
+        "abbr": "NH",
+        "name": "New Hampshire",
+        "capital": "Concord",
+        "lat": "43.220093",
+        "long": "-71.549127",
+        "continent": "North America",
+        "flag": "Flag_of_New_Hampshire",
+    "type": "state"
+    },
+    {
+        "abbr": "NJ",
+        "name": "New Jersey",
+        "capital": "Trenton",
+        "lat": "40.221741",
+        "long": "-74.756138",
+        "continent": "North America",
+        "flag": "Flag_of_New_Jersey",
+    "type": "state"
+    },
+    {
+        "abbr": "NM",
+        "name": "New Mexico",
+        "capital": "Santa Fe",
+        "lat": "35.667231",
+        "long": "-105.964575",
+        "continent": "North America",
+        "flag": "Flag_of_New_Mexico",
+    "type": "state"
+    },
+    {
+        "abbr": "NY",
+        "name": "New York",
+        "capital": "Albany",
+        "lat": "42.659829",
+        "long": "-73.781339",
+        "continent": "North America",
+        "flag": "Flag_of_New_York",
+    "type": "state"
+    },
+    {
+        "abbr": "NC",
+        "name": "North Carolina",
+        "capital": "Raleigh",
+        "lat": "35.771",
+        "long": "-78.638",
+        "continent": "North America",
+        "flag": "Flag_of_North_Carolina",
+    "type": "state"
+    },
+    {
+        "abbr": "ND",
+        "name": "North Dakota",
+        "capital": "Bismarck",
+        "lat": "48.813343",
+        "long": "-100.779004",
+        "continent": "North America",
+        "flag": "Flag_of_North_Dakota",
+    "type": "state"
+    },
+    {
+        "abbr": "OH",
+        "name": "Ohio",
+        "capital": "Columbus",
+        "lat": "39.962245",
+        "long": "-83.000647",
+        "continent": "North America",
+        "flag": "Flag_of_Ohio",
+    "type": "state"
+    },
+    {
+        "abbr": "OK",
+        "name": "Oklahoma",
+        "capital": "Oklahoma City",
+        "lat": "35.482309",
+        "long": "-97.534994",
+        "continent": "North America",
+        "flag": "Flag_of_Oklahoma",
+    "type": "state"
+    },
+    {
+        "abbr": "OR",
+        "name": "Oregon",
+        "capital": "Salem",
+        "lat": "44.931109",
+        "long": "-123.029159",
+        "continent": "North America",
+        "flag": "Flag_of_Oregon",
+    "type": "state"
+    },
+    {
+        "abbr": "PA",
+        "name": "Pennsylvania",
+        "capital": "Harrisburg",
+        "lat": "40.269789",
+        "long": "-76.875613",
+        "continent": "North America",
+        "flag": "Flag_of_Pennsylvania",
+    "type": "state"
+    },
+    {
+        "abbr": "RI",
+        "name": "Rhode Island",
+        "capital": "Providence",
+        "lat": "41.82355",
+        "long": "-71.422132",
+        "continent": "North America",
+        "flag": "Flag_of_Rhode_Island",
+    "type": "state"
+    },
+    {
+        "abbr": "SC",
+        "name": "South Carolina",
+        "capital": "Columbia",
+        "lat": "34.000",
+        "long": "-81.035",
+        "continent": "North America",
+        "flag": "Flag_of_South_Carolina",
+    "type": "state"
+    },
+    {
+        "abbr": "SD",
+        "name": "South Dakota",
+        "capital": "Pierre",
+        "lat": "44.367966",
+        "long": "-100.336378",
+        "continent": "North America",
+        "flag": "Flag_of_South_Dakota",
+    "type": "state"
+    },
+    {
+        "abbr": "TN",
+        "name": "Tennessee",
+        "capital": "Nashville",
+        "lat": "36.165",
+        "long": "-86.784",
+        "continent": "North America",
+        "flag": "Flag_of_Tennessee",
+    "type": "state"
+    },
+    {
+        "abbr": "TX",
+        "name": "Texas",
+        "capital": "Austin",
+        "lat": "30.266667",
+        "long": "-97.75",
+        "continent": "North America",
+        "flag": "Flag_of_Texas",
+    "type": "state"
+    },
+    {
+        "abbr": "UT",
+        "name": "Utah",
+        "capital": "Salt Lake City",
+        "lat": "40.7547",
+        "long": "-111.892622",
+        "continent": "North America",
+        "flag": "Flag_of_Utah",
+    "type": "state"
+    },
+    {
+        "abbr": "VT",
+        "name": "Vermont",
+        "capital": "Montpelier",
+        "lat": "44.26639",
+        "long": "-72.57194",
+        "continent": "North America",
+        "flag": "Flag_of_Vermont",
+    "type": "state"
+    },
+    {
+        "abbr": "VA",
+        "name": "Virginia",
+        "capital": "Richmond",
+        "lat": "37.54",
+        "long": "-77.46",
+        "continent": "North America",
+        "flag": "Flag_of_Virginia",
+    "type": "state"
+    },
+    {
+        "abbr": "WA",
+        "name": "Washington",
+        "capital": "Olympia",
+        "lat": "47.042418",
+        "long": "-122.893077",
+        "continent": "North America",
+        "flag": "Flag_of_Washington",
+    "type": "state"
+    },
+    {
+        "abbr": "WV",
+        "name": "West Virginia",
+        "capital": "Charleston",
+        "lat": "38.349497",
+        "long": "-81.633294",
+        "continent": "North America",
+        "flag": "Flag_of_West_Virginia",
+    "type": "state"
+    },
+    {
+        "abbr": "WI",
+        "name": "Wisconsin",
+        "capital": "Madison",
+        "lat": "43.074722",
+        "long": "-89.384444",
+        "continent": "North America",
+        "flag": "Flag_of_Wisconsin",
+    "type": "state"
+    },
+    {
+        "abbr": "WY",
+        "name": "Wyoming",
+        "capital": "Cheyenne",
+        "lat": "41.145548",
+        "long": "-104.802042",
+        "continent": "North America",
+        "flag": "Flag_of_Wyoming",
+    "type": "state"
+    },
+    {
+      "name": "Somaliland",
+      "capital": "Hargeisa",
+      "lat": "9.55",
+      "long": "44.050000",
+      "abbr": "NULL",
+      "continent": "Africa",
+      "flag": "so",
+      "type": "country"
+    },
+    {
+      "name": "South Georgia and South Sandwich Islands",
+      "capital": "King Edward Point",
+      "lat": "-54.283333",
+      "long": "-36.500000",
+      "abbr": "GS",
+      "continent": "Antarctica",
+      "flag": "gs",
+      "type": "country"
+    },
+    {
+      "name": "French Southern and Antarctic Lands",
+      "capital": "Port-aux-Français",
+      "lat": "-49.35",
+      "long": "70.216667",
+      "abbr": "TF",
+      "continent": "Antarctica",
+      "flag": "tf",
+      "type": "country"
+    },
+    {
+      "name": "Palestine",
+      "capital": "Jerusalem",
+      "lat": "31.766666666666666",
+      "long": "35.233333",
+      "abbr": "PS",
+      "continent": "Asia",
+      "flag": "ps",
+      "type": "country"
+    },
+    {
+      "name": "Aland Islands",
+      "capital": "Mariehamn",
+      "lat": "60.116667",
+      "long": "19.900000",
+      "abbr": "AX",
+      "continent": "Europe",
+      "flag": "ax",
+      "type": "country"
+    },
+    {
+      "name": "Nauru",
+      "capital": "Yaren",
+      "lat": "-0.5477",
+      "long": "166.920867",
+      "abbr": "NR",
+      "continent": "Australia",
+      "flag": "nr",
+      "type": "country"
+    },
+    {
+      "name": "Saint Martin",
+      "capital": "Marigot",
+      "lat": "18.0731",
+      "long": "-63.082200",
+      "abbr": "MF",
+      "continent": "North America",
+      "flag": "mf",
+      "type": "country"
+    },
+    {
+      "name": "Tokelau",
+      "capital": "Atafu",
+      "lat": "-9.166667",
+      "long": "-171.833333",
+      "abbr": "TK",
+      "continent": "Australia",
+      "flag": "tk",
+      "type": "country"
+    },
+    {
+      "name": "Western Sahara",
+      "capital": "El Aaiún",
+      "lat": "27.153611",
+      "long": "-13.203333",
+      "abbr": "EH",
+      "continent": "Africa",
+      "flag": "eh",
+      "type": "country"
+    },
+    {
+      "name": "Afghanistan",
+      "capital": "Kabul",
+      "lat": "34.516666666666666",
+      "long": "69.183333",
+      "abbr": "AF",
+      "continent": "Asia",
+      "flag": "af",
+      "type": "country"
+    },
+    {
+      "name": "Albania",
+      "capital": "Tirana",
+      "lat": "41.31666666666667",
+      "long": "19.816667",
+      "abbr": "AL",
+      "continent": "Europe",
+      "flag": "al",
+      "type": "country"
+    },
+    {
+      "name": "Algeria",
+      "capital": "Algiers",
+      "lat": "36.75",
+      "long": "3.050000",
+      "abbr": "DZ",
+      "continent": "Africa",
+      "flag": "dz",
+      "type": "country"
+    },
+    {
+      "name": "American Samoa",
+      "capital": "Pago Pago",
+      "lat": "-14.266666666666667",
+      "long": "-170.700000",
+      "abbr": "AS",
+      "continent": "Australia",
+      "flag": "as",
+      "type": "country"
+    },
+    {
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "lat": "42.5",
+      "long": "1.516667",
+      "abbr": "AD",
+      "continent": "Europe",
+      "flag": "ad",
+      "type": "country"
+    },
+    {
+      "name": "Angola",
+      "capital": "Luanda",
+      "lat": "-8.833333333333334",
+      "long": "13.216667",
+      "abbr": "AO",
+      "continent": "Africa",
+      "flag": "ao",
+      "type": "country"
+    },
+    {
+      "name": "Anguilla",
+      "capital": "The Valley",
+      "lat": "18.216666666666665",
+      "long": "-63.050000",
+      "abbr": "AI",
+      "continent": "North America",
+      "flag": "ai",
+      "type": "country"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "capital": "Saint John's",
+      "lat": "17.116666666666667",
+      "long": "-61.850000",
+      "abbr": "AG",
+      "continent": "North America",
+      "flag": "ag",
+      "type": "country"
+    },
+    {
+      "name": "Argentina",
+      "capital": "Buenos Aires",
+      "lat": "-34.583333333333336",
+      "long": "-58.666667",
+      "abbr": "AR",
+      "continent": "South America",
+      "flag": "ar",
+      "type": "country"
+    },
+    {
+      "name": "Armenia",
+      "capital": "Yerevan",
+      "lat": "40.166666666666664",
+      "long": "44.500000",
+      "abbr": "AM",
+      "continent": "Europe",
+      "flag": "am",
+      "type": "country"
+    },
+    {
+      "name": "Aruba",
+      "capital": "Oranjestad",
+      "lat": "12.516666666666667",
+      "long": "-70.033333",
+      "abbr": "AW",
+      "continent": "North America",
+      "flag": "aw",
+      "type": "country"
+    },
+    {
+      "name": "Australia",
+      "capital": "Canberra",
+      "lat": "-35.266666666666666",
+      "long": "149.133333",
+      "abbr": "AU",
+      "continent": "Australia",
+      "flag": "au",
+      "type": "country"
+    },
+    {
+      "name": "Austria",
+      "capital": "Vienna",
+      "lat": "48.2",
+      "long": "16.366667",
+      "abbr": "AT",
+      "continent": "Europe",
+      "flag": "at",
+      "type": "country"
+    },
+    {
+      "name": "Azerbaijan",
+      "capital": "Baku",
+      "lat": "40.38333333333333",
+      "long": "49.866667",
+      "abbr": "AZ",
+      "continent": "Europe",
+      "flag": "az",
+      "type": "country"
+    },
+    {
+      "name": "Bahamas",
+      "capital": "Nassau",
+      "lat": "25.083333333333332",
+      "long": "-77.350000",
+      "abbr": "BS",
+      "continent": "North America",
+      "flag": "bs",
+      "type": "country"
+    },
+    {
+      "name": "Bahrain",
+      "capital": "Manama",
+      "lat": "26.233333333333334",
+      "long": "50.566667",
+      "abbr": "BH",
+      "continent": "Asia",
+      "flag": "bh",
+      "type": "country"
+    },
+    {
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "lat": "23.716666666666665",
+      "long": "90.400000",
+      "abbr": "BD",
+      "continent": "Asia",
+      "flag": "bd",
+      "type": "country"
+    },
+    {
+      "name": "Barbados",
+      "capital": "Bridgetown",
+      "lat": "13.1",
+      "long": "-59.616667",
+      "abbr": "BB",
+      "continent": "North America",
+      "flag": "bb",
+      "type": "country"
+    },
+    {
+      "name": "Belarus",
+      "capital": "Minsk",
+      "lat": "53.9",
+      "long": "27.566667",
+      "abbr": "BY",
+      "continent": "Europe",
+      "flag": "by",
+      "type": "country"
+    },
+    {
+      "name": "Belgium",
+      "capital": "Brussels",
+      "lat": "50.833333333333336",
+      "long": "4.333333",
+      "abbr": "BE",
+      "continent": "Europe",
+      "flag": "be",
+      "type": "country"
+    },
+    {
+      "name": "Belize",
+      "capital": "Belmopan",
+      "lat": "17.25",
+      "long": "-88.766667",
+      "abbr": "BZ",
+      "continent": "Central America",
+      "flag": "bz",
+      "type": "country"
+    },
+    {
+      "name": "Benin",
+      "capital": "Porto-Novo",
+      "lat": "6.483333333333333",
+      "long": "2.616667",
+      "abbr": "BJ",
+      "continent": "Africa",
+      "flag": "bj",
+      "type": "country"
+    },
+    {
+      "name": "Bermuda",
+      "capital": "Hamilton",
+      "lat": "32.28333333333333",
+      "long": "-64.783333",
+      "abbr": "BM",
+      "continent": "North America",
+      "flag": "bm",
+      "type": "country"
+    },
+    {
+      "name": "Bhutan",
+      "capital": "Thimphu",
+      "lat": "27.466666666666665",
+      "long": "89.633333",
+      "abbr": "BT",
+      "continent": "Asia",
+      "flag": "bt",
+      "type": "country"
+    },
+    {
+      "name": "Bolivia",
+      "capital": "La Paz",
+      "lat": "-16.5",
+      "long": "-68.150000",
+      "abbr": "BO",
+      "continent": "South America",
+      "flag": "bo",
+      "type": "country"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "capital": "Sarajevo",
+      "lat": "43.86666666666667",
+      "long": "18.416667",
+      "abbr": "BA",
+      "continent": "Europe",
+      "flag": "ba",
+      "type": "country"
+    },
+    {
+      "name": "Botswana",
+      "capital": "Gaborone",
+      "lat": "-24.633333333333333",
+      "long": "25.900000",
+      "abbr": "BW",
+      "continent": "Africa",
+      "flag": "bw",
+      "type": "country"
+    },
+    {
+      "name": "Brazil",
+      "capital": "Brasilia",
+      "lat": "-15.783333333333333",
+      "long": "-47.916667",
+      "abbr": "BR",
+      "continent": "South America",
+      "flag": "br",
+      "type": "country"
+    },
+    {
+      "name": "British Virgin Islands",
+      "capital": "Road Town",
+      "lat": "18.416666666666668",
+      "long": "-64.616667",
+      "abbr": "VG",
+      "continent": "North America",
+      "flag": "vg",
+      "type": "country"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "capital": "Bandar Seri Begawan",
+      "lat": "4.883333333333333",
+      "long": "114.933333",
+      "abbr": "BN",
+      "continent": "Asia",
+      "flag": "bn",
+      "type": "country"
+    },
+    {
+      "name": "Bulgaria",
+      "capital": "Sofia",
+      "lat": "42.68333333333333",
+      "long": "23.316667",
+      "abbr": "BG",
+      "continent": "Europe",
+      "flag": "bg",
+      "type": "country"
+    },
+    {
+      "name": "Burkina Faso",
+      "capital": "Ouagadougou",
+      "lat": "12.366666666666667",
+      "long": "-1.516667",
+      "abbr": "BF",
+      "continent": "Africa",
+      "flag": "bf",
+      "type": "country"
+    },
+    {
+      "name": "Myanmar",
+      "capital": "Rangoon",
+      "lat": "16.8",
+      "long": "96.150000",
+      "abbr": "MM",
+      "continent": "Asia",
+      "flag": "mm",
+      "type": "country"
+    },
+    {
+      "name": "Burundi",
+      "capital": "Bujumbura",
+      "lat": "-3.3666666666666667",
+      "long": "29.350000",
+      "abbr": "BI",
+      "continent": "Africa",
+      "flag": "bi",
+      "type": "country"
+    },
+    {
+      "name": "Cambodia",
+      "capital": "Phnom Penh",
+      "lat": "11.55",
+      "long": "104.916667",
+      "abbr": "KH",
+      "continent": "Asia",
+      "flag": "kh",
+      "type": "country"
+    },
+    {
+      "name": "Cameroon",
+      "capital": "Yaounde",
+      "lat": "3.8666666666666667",
+      "long": "11.516667",
+      "abbr": "CM",
+      "continent": "Africa",
+      "flag": "cm",
+      "type": "country"
+    },
+    {
+      "name": "Canada",
+      "capital": "Ottawa",
+      "lat": "45.416666666666664",
+      "long": "-75.700000",
+      "abbr": "CA",
+      "continent": "Central America",
+      "flag": "ca",
+      "type": "country"
+    },
+    {
+      "name": "Cape Verde",
+      "capital": "Praia",
+      "lat": "14.916666666666666",
+      "long": "-23.516667",
+      "abbr": "CV",
+      "continent": "Africa",
+      "flag": "cv",
+      "type": "country"
+    },
+    {
+      "name": "Cayman Islands",
+      "capital": "George Town",
+      "lat": "19.3",
+      "long": "-81.383333",
+      "abbr": "KY",
+      "continent": "North America",
+      "flag": "ky",
+      "type": "country"
+    },
+    {
+      "name": "Central African Republic",
+      "capital": "Bangui",
+      "lat": "4.366666666666666",
+      "long": "18.583333",
+      "abbr": "CF",
+      "continent": "Africa",
+      "flag": "cf",
+      "type": "country"
+    },
+    {
+      "name": "Chad",
+      "capital": "N'Djamena",
+      "lat": "12.1",
+      "long": "15.033333",
+      "abbr": "TD",
+      "continent": "Africa",
+      "flag": "td",
+      "type": "country"
+    },
+    {
+      "name": "Chile",
+      "capital": "Santiago",
+      "lat": "-33.45",
+      "long": "-70.666667",
+      "abbr": "CL",
+      "continent": "South America",
+      "flag": "cl",
+      "type": "country"
+    },
+    {
+      "name": "China",
+      "capital": "Beijing",
+      "lat": "39.916666666666664",
+      "long": "116.383333",
+      "abbr": "CN",
+      "continent": "Asia",
+      "flag": "cn",
+      "type": "country"
+    },
+    {
+      "name": "Christmas Island",
+      "capital": "The Settlement",
+      "lat": "-10.416666666666666",
+      "long": "105.716667",
+      "abbr": "CX",
+      "continent": "Australia",
+      "flag": "cx",
+      "type": "country"
+    },
+    {
+      "name": "Cocos Islands",
+      "capital": "West Island",
+      "lat": "-12.166666666666666",
+      "long": "96.833333",
+      "abbr": "CC",
+      "continent": "Australia",
+      "flag": "cc",
+      "type": "country"
+    },
+    {
+      "name": "Colombia",
+      "capital": "Bogota",
+      "lat": "4.6",
+      "long": "-74.083333",
+      "abbr": "CO",
+      "continent": "South America",
+      "flag": "co",
+      "type": "country"
+    },
+    {
+      "name": "Comoros",
+      "capital": "Moroni",
+      "lat": "-11.7",
+      "long": "43.233333",
+      "abbr": "KM",
+      "continent": "Africa",
+      "flag": "km",
+      "type": "country"
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "capital": "Kinshasa",
+      "lat": "-4.316666666666666",
+      "long": "15.300000",
+      "abbr": "CD",
+      "continent": "Africa",
+      "flag": "cd",
+      "type": "country"
+    },
+    {
+      "name": "Republic of Congo",
+      "capital": "Brazzaville",
+      "lat": "-4.25",
+      "long": "15.283333",
+      "abbr": "CG",
+      "continent": "Africa",
+      "flag": "cg",
+      "type": "country"
+    },
+    {
+      "name": "Cook Islands",
+      "capital": "Avarua",
+      "lat": "-21.2",
+      "long": "-159.766667",
+      "abbr": "CK",
+      "continent": "Australia",
+      "flag": "ck",
+      "type": "country"
+    },
+    {
+      "name": "Costa Rica",
+      "capital": "San Jose",
+      "lat": "9.933333333333334",
+      "long": "-84.083333",
+      "abbr": "CR",
+      "continent": "Central America",
+      "flag": "cr",
+      "type": "country"
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "capital": "Yamoussoukro",
+      "lat": "6.816666666666666",
+      "long": "-5.266667",
+      "abbr": "CI",
+      "continent": "Africa",
+      "flag": "ci",
+      "type": "country"
+    },
+    {
+      "name": "Croatia",
+      "capital": "Zagreb",
+      "lat": "45.8",
+      "long": "16.000000",
+      "abbr": "HR",
+      "continent": "Europe",
+      "flag": "hr",
+      "type": "country"
+    },
+    {
+      "name": "Cuba",
+      "capital": "Havana",
+      "lat": "23.116666666666667",
+      "long": "-82.350000",
+      "abbr": "CU",
+      "continent": "North America",
+      "flag": "cu",
+      "type": "country"
+    },
+    {
+      "name": "Curaçao",
+      "capital": "Willemstad",
+      "lat": "12.1",
+      "long": "-68.916667",
+      "abbr": "CW",
+      "continent": "North America",
+      "flag": "cw",
+      "type": "country"
+    },
+    {
+      "name": "Cyprus",
+      "capital": "Nicosia",
+      "lat": "35.166666666666664",
+      "long": "33.366667",
+      "abbr": "CY",
+      "continent": "Europe",
+      "flag": "cy",
+      "type": "country"
+    },
+    {
+      "name": "Czech Republic",
+      "capital": "Prague",
+      "lat": "50.083333333333336",
+      "long": "14.466667",
+      "abbr": "CZ",
+      "continent": "Europe",
+      "flag": "cz",
+      "type": "country"
+    },
+    {
+      "name": "Denmark",
+      "capital": "Copenhagen",
+      "lat": "55.666666666666664",
+      "long": "12.583333",
+      "abbr": "DK",
+      "continent": "Europe",
+      "flag": "dk",
+      "type": "country"
+    },
+    {
+      "name": "Djibouti",
+      "capital": "Djibouti",
+      "lat": "11.583333333333334",
+      "long": "43.150000",
+      "abbr": "DJ",
+      "continent": "Africa",
+      "flag": "dj",
+      "type": "country"
+    },
+    {
+      "name": "Dominica",
+      "capital": "Roseau",
+      "lat": "15.3",
+      "long": "-61.400000",
+      "abbr": "DM",
+      "continent": "North America",
+      "flag": "dm",
+      "type": "country"
+    },
+    {
+      "name": "Dominican Republic",
+      "capital": "Santo Domingo",
+      "lat": "18.466666666666665",
+      "long": "-69.900000",
+      "abbr": "DO",
+      "continent": "North America",
+      "flag": "do",
+      "type": "country"
+    },
+    {
+      "name": "Ecuador",
+      "capital": "Quito",
+      "lat": "-0.21666666666666667",
+      "long": "-78.500000",
+      "abbr": "EC",
+      "continent": "South America",
+      "flag": "ec",
+      "type": "country"
+    },
+    {
+      "name": "Egypt",
+      "capital": "Cairo",
+      "lat": "30.05",
+      "long": "31.250000",
+      "abbr": "EG",
+      "continent": "Africa",
+      "flag": "eg",
+      "type": "country"
+    },
+    {
+      "name": "El Salvador",
+      "capital": "San Salvador",
+      "lat": "13.7",
+      "long": "-89.200000",
+      "abbr": "SV",
+      "continent": "Central America",
+      "flag": "sv",
+      "type": "country"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "capital": "Malabo",
+      "lat": "3.75",
+      "long": "8.783333",
+      "abbr": "GQ",
+      "continent": "Africa",
+      "flag": "gq",
+      "type": "country"
+    },
+    {
+      "name": "Eritrea",
+      "capital": "Asmara",
+      "lat": "15.333333333333334",
+      "long": "38.933333",
+      "abbr": "ER",
+      "continent": "Africa",
+      "flag": "er",
+      "type": "country"
+    },
+    {
+      "name": "Estonia",
+      "capital": "Tallinn",
+      "lat": "59.43333333333333",
+      "long": "24.716667",
+      "abbr": "EE",
+      "continent": "Europe",
+      "flag": "ee",
+      "type": "country"
+    },
+    {
+      "name": "Ethiopia",
+      "capital": "Addis Ababa",
+      "lat": "9.033333333333333",
+      "long": "38.700000",
+      "abbr": "ET",
+      "continent": "Africa",
+      "flag": "et",
+      "type": "country"
+    },
+    {
+      "name": "Falkland Islands",
+      "capital": "Stanley",
+      "lat": "-51.7",
+      "long": "-57.850000",
+      "abbr": "FK",
+      "continent": "South America",
+      "flag": "fk",
+      "type": "country"
+    },
+    {
+      "name": "Faroe Islands",
+      "capital": "Torshavn",
+      "lat": "62",
+      "long": "-6.766667",
+      "abbr": "FO",
+      "continent": "Europe",
+      "flag": "fo",
+      "type": "country"
+    },
+    {
+      "name": "Fiji",
+      "capital": "Suva",
+      "lat": "-18.133333333333333",
+      "long": "178.416667",
+      "abbr": "FJ",
+      "continent": "Australia",
+      "flag": "fj",
+      "type": "country"
+    },
+    {
+      "name": "Finland",
+      "capital": "Helsinki",
+      "lat": "60.166666666666664",
+      "long": "24.933333",
+      "abbr": "FI",
+      "continent": "Europe",
+      "flag": "fi",
+      "type": "country"
+    },
+    {
+      "name": "France",
+      "capital": "Paris",
+      "lat": "48.86666666666667",
+      "long": "2.333333",
+      "abbr": "FR",
+      "continent": "Europe",
+      "flag": "fr",
+      "type": "country"
+    },
+    {
+      "name": "French Polynesia",
+      "capital": "Papeete",
+      "lat": "-17.533333333333335",
+      "long": "-149.566667",
+      "abbr": "PF",
+      "continent": "Australia",
+      "flag": "pf",
+      "type": "country"
+    },
+    {
+      "name": "Gabon",
+      "capital": "Libreville",
+      "lat": "0.38333333333333336",
+      "long": "9.450000",
+      "abbr": "GA",
+      "continent": "Africa",
+      "flag": "ga",
+      "type": "country"
+    },
+    {
+      "name": "The Gambia",
+      "capital": "Banjul",
+      "lat": "13.45",
+      "long": "-16.566667",
+      "abbr": "GM",
+      "continent": "Africa",
+      "flag": "gm",
+      "type": "country"
+    },
+    {
+      "name": "Georgia",
+      "capital": "Tbilisi",
+      "lat": "41.68333333333333",
+      "long": "44.833333",
+      "abbr": "GE",
+      "continent": "Europe",
+      "flag": "ge",
+      "type": "country"
+    },
+    {
+      "name": "Germany",
+      "capital": "Berlin",
+      "lat": "52.516666666666666",
+      "long": "13.400000",
+      "abbr": "DE",
+      "continent": "Europe",
+      "flag": "de",
+      "type": "country"
+    },
+    {
+      "name": "Ghana",
+      "capital": "Accra",
+      "lat": "5.55",
+      "long": "-0.216667",
+      "abbr": "GH",
+      "continent": "Africa",
+      "flag": "gh",
+      "type": "country"
+    },
+    {
+      "name": "Gibraltar",
+      "capital": "Gibraltar",
+      "lat": "36.13333333333333",
+      "long": "-5.350000",
+      "abbr": "GI",
+      "continent": "Europe",
+      "flag": "gi",
+      "type": "country"
+    },
+    {
+      "name": "Greece",
+      "capital": "Athens",
+      "lat": "37.983333333333334",
+      "long": "23.733333",
+      "abbr": "GR",
+      "continent": "Europe",
+      "flag": "gr",
+      "type": "country"
+    },
+    {
+      "name": "Greenland",
+      "capital": "Nuuk",
+      "lat": "64.18333333333334",
+      "long": "-51.750000",
+      "abbr": "GL",
+      "continent": "Central America",
+      "flag": "gl",
+      "type": "country"
+    },
+    {
+      "name": "Grenada",
+      "capital": "Saint George's",
+      "lat": "12.05",
+      "long": "-61.750000",
+      "abbr": "GD",
+      "continent": "North America",
+      "flag": "gd",
+      "type": "country"
+    },
+    {
+      "name": "Guam",
+      "capital": "Hagatna",
+      "lat": "13.466666666666667",
+      "long": "144.733333",
+      "abbr": "GU",
+      "continent": "Australia",
+      "flag": "gu",
+      "type": "country"
+    },
+    {
+      "name": "Guatemala",
+      "capital": "Guatemala City",
+      "lat": "14.616666666666667",
+      "long": "-90.516667",
+      "abbr": "GT",
+      "continent": "Central America",
+      "flag": "gt",
+      "type": "country"
+    },
+    {
+      "name": "Guernsey",
+      "capital": "Saint Peter Port",
+      "lat": "49.45",
+      "long": "-2.533333",
+      "abbr": "GG",
+      "continent": "Europe",
+      "flag": "gg",
+      "type": "country"
+    },
+    {
+      "name": "Guinea",
+      "capital": "Conakry",
+      "lat": "9.5",
+      "long": "-13.700000",
+      "abbr": "GN",
+      "continent": "Africa",
+      "flag": "gn",
+      "type": "country"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "capital": "Bissau",
+      "lat": "11.85",
+      "long": "-15.583333",
+      "abbr": "GW",
+      "continent": "Africa",
+      "flag": "gw",
+      "type": "country"
+    },
+    {
+      "name": "Guyana",
+      "capital": "Georgetown",
+      "lat": "6.8",
+      "long": "-58.150000",
+      "abbr": "GY",
+      "continent": "South America",
+      "flag": "gy",
+      "type": "country"
+    },
+    {
+      "name": "Haiti",
+      "capital": "Port-au-Prince",
+      "lat": "18.533333333333335",
+      "long": "-72.333333",
+      "abbr": "HT",
+      "continent": "North America",
+      "flag": "ht",
+      "type": "country"
+    },
+    {
+      "name": "Vatican City",
+      "capital": "Vatican City",
+      "lat": "41.9",
+      "long": "12.450000",
+      "abbr": "VA",
+      "continent": "Europe",
+      "flag": "va",
+      "type": "country"
+    },
+    {
+      "name": "Honduras",
+      "capital": "Tegucigalpa",
+      "lat": "14.1",
+      "long": "-87.216667",
+      "abbr": "HN",
+      "continent": "Central America",
+      "flag": "hn",
+      "type": "country"
+    },
+    {
+      "name": "Hungary",
+      "capital": "Budapest",
+      "lat": "47.5",
+      "long": "19.083333",
+      "abbr": "HU",
+      "continent": "Europe",
+      "flag": "hu",
+      "type": "country"
+    },
+    {
+      "name": "Iceland",
+      "capital": "Reykjavik",
+      "lat": "64.15",
+      "long": "-21.950000",
+      "abbr": "IS",
+      "continent": "Europe",
+      "flag": "is",
+      "type": "country"
+    },
+    {
+      "name": "India",
+      "capital": "New Delhi",
+      "lat": "28.6",
+      "long": "77.200000",
+      "abbr": "IN",
+      "continent": "Asia",
+      "flag": "in",
+      "type": "country"
+    },
+    {
+      "name": "Indonesia",
+      "capital": "Jakarta",
+      "lat": "-6.166666666666667",
+      "long": "106.816667",
+      "abbr": "ID",
+      "continent": "Asia",
+      "flag": "id",
+      "type": "country"
+    },
+    {
+      "name": "Iran",
+      "capital": "Tehran",
+      "lat": "35.7",
+      "long": "51.416667",
+      "abbr": "IR",
+      "continent": "Asia",
+      "flag": "ir",
+      "type": "country"
+    },
+    {
+      "name": "Iraq",
+      "capital": "Baghdad",
+      "lat": "33.333333333333336",
+      "long": "44.400000",
+      "abbr": "IQ",
+      "continent": "Asia",
+      "flag": "iq",
+      "type": "country"
+    },
+    {
+      "name": "Ireland",
+      "capital": "Dublin",
+      "lat": "53.31666666666667",
+      "long": "-6.233333",
+      "abbr": "IE",
+      "continent": "Europe",
+      "flag": "ie",
+      "type": "country"
+    },
+    {
+      "name": "Isle of Man",
+      "capital": "Douglas",
+      "lat": "54.15",
+      "long": "-4.483333",
+      "abbr": "IM",
+      "continent": "Europe",
+      "flag": "im",
+      "type": "country"
+    },
+    {
+      "name": "Israel",
+      "capital": "Jerusalem",
+      "lat": "31.766666666666666",
+      "long": "35.233333",
+      "abbr": "IL",
+      "continent": "Asia",
+      "flag": "il",
+      "type": "country"
+    },
+    {
+      "name": "Italy",
+      "capital": "Rome",
+      "lat": "41.9",
+      "long": "12.483333",
+      "abbr": "IT",
+      "continent": "Europe",
+      "flag": "it",
+      "type": "country"
+    },
+    {
+      "name": "Jamaica",
+      "capital": "Kingston",
+      "lat": "18",
+      "long": "-76.800000",
+      "abbr": "JM",
+      "continent": "North America",
+      "flag": "jm",
+      "type": "country"
+    },
+    {
+      "name": "Japan",
+      "capital": "Tokyo",
+      "lat": "35.68333333333333",
+      "long": "139.750000",
+      "abbr": "JP",
+      "continent": "Asia",
+      "flag": "jp",
+      "type": "country"
+    },
+    {
+      "name": "Jersey",
+      "capital": "Saint Helier",
+      "lat": "49.18333333333333",
+      "long": "-2.100000",
+      "abbr": "JE",
+      "continent": "Europe",
+      "flag": "je",
+      "type": "country"
+    },
+    {
+      "name": "Jordan",
+      "capital": "Amman",
+      "lat": "31.95",
+      "long": "35.933333",
+      "abbr": "JO",
+      "continent": "Asia",
+      "flag": "jo",
+      "type": "country"
+    },
+    {
+      "name": "Kazakhstan",
+      "capital": "Astana",
+      "lat": "51.166666666666664",
+      "long": "71.416667",
+      "abbr": "KZ",
+      "continent": "Asia",
+      "flag": "kz",
+      "type": "country"
+    },
+    {
+      "name": "Kenya",
+      "capital": "Nairobi",
+      "lat": "-1.2833333333333332",
+      "long": "36.816667",
+      "abbr": "KE",
+      "continent": "Africa",
+      "flag": "ke",
+      "type": "country"
+    },
+    {
+      "name": "Kiribati",
+      "capital": "Tarawa",
+      "lat": "-0.8833333333333333",
+      "long": "169.533333",
+      "abbr": "KI",
+      "continent": "Australia",
+      "flag": "ki",
+      "type": "country"
+    },
+    {
+      "name": "North Korea",
+      "capital": "Pyongyang",
+      "lat": "39.016666666666666",
+      "long": "125.750000",
+      "abbr": "KP",
+      "continent": "Asia",
+      "flag": "kp",
+      "type": "country"
+    },
+    {
+      "name": "South Korea",
+      "capital": "Seoul",
+      "lat": "37.55",
+      "long": "126.983333",
+      "abbr": "KR",
+      "continent": "Asia",
+      "flag": "kr",
+      "type": "country"
+    },
+    {
+      "name": "Kosovo",
+      "capital": "Pristina",
+      "lat": "42.666666666666664",
+      "long": "21.166667",
+      "abbr": "KO",
+      "continent": "Europe",
+      "flag": "ko",
+      "type": "country"
+    },
+    {
+      "name": "Kuwait",
+      "capital": "Kuwait City",
+      "lat": "29.366666666666667",
+      "long": "47.966667",
+      "abbr": "KW",
+      "continent": "Asia",
+      "flag": "kw",
+      "type": "country"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "capital": "Bishkek",
+      "lat": "42.86666666666667",
+      "long": "74.600000",
+      "abbr": "KG",
+      "continent": "Asia",
+      "flag": "kg",
+      "type": "country"
+    },
+    {
+      "name": "Laos",
+      "capital": "Vientiane",
+      "lat": "17.966666666666665",
+      "long": "102.600000",
+      "abbr": "LA",
+      "continent": "Asia",
+      "flag": "la",
+      "type": "country"
+    },
+    {
+      "name": "Latvia",
+      "capital": "Riga",
+      "lat": "56.95",
+      "long": "24.100000",
+      "abbr": "LV",
+      "continent": "Europe",
+      "flag": "lv",
+      "type": "country"
+    },
+    {
+      "name": "Lebanon",
+      "capital": "Beirut",
+      "lat": "33.86666666666667",
+      "long": "35.500000",
+      "abbr": "LB",
+      "continent": "Asia",
+      "flag": "lb",
+      "type": "country"
+    },
+    {
+      "name": "Lesotho",
+      "capital": "Maseru",
+      "lat": "-29.316666666666666",
+      "long": "27.483333",
+      "abbr": "LS",
+      "continent": "Africa",
+      "flag": "ls",
+      "type": "country"
+    },
+    {
+      "name": "Liberia",
+      "capital": "Monrovia",
+      "lat": "6.3",
+      "long": "-10.800000",
+      "abbr": "LR",
+      "continent": "Africa",
+      "flag": "lr",
+      "type": "country"
+    },
+    {
+      "name": "Libya",
+      "capital": "Tripoli",
+      "lat": "32.88333333333333",
+      "long": "13.166667",
+      "abbr": "LY",
+      "continent": "Africa",
+      "flag": "ly",
+      "type": "country"
+    },
+    {
+      "name": "Liechtenstein",
+      "capital": "Vaduz",
+      "lat": "47.13333333333333",
+      "long": "9.516667",
+      "abbr": "LI",
+      "continent": "Europe",
+      "flag": "li",
+      "type": "country"
+    },
+    {
+      "name": "Lithuania",
+      "capital": "Vilnius",
+      "lat": "54.68333333333333",
+      "long": "25.316667",
+      "abbr": "LT",
+      "continent": "Europe",
+      "flag": "lt",
+      "type": "country"
+    },
+    {
+      "name": "Luxembourg",
+      "capital": "Luxembourg",
+      "lat": "49.6",
+      "long": "6.116667",
+      "abbr": "LU",
+      "continent": "Europe",
+      "flag": "lu",
+      "type": "country"
+    },
+    {
+      "name": "Macedonia",
+      "capital": "Skopje",
+      "lat": "42",
+      "long": "21.433333",
+      "abbr": "MK",
+      "continent": "Europe",
+      "flag": "mk",
+      "type": "country"
+    },
+    {
+      "name": "Madagascar",
+      "capital": "Antananarivo",
+      "lat": "-18.916666666666668",
+      "long": "47.516667",
+      "abbr": "MG",
+      "continent": "Africa",
+      "flag": "mg",
+      "type": "country"
+    },
+    {
+      "name": "Malawi",
+      "capital": "Lilongwe",
+      "lat": "-13.966666666666667",
+      "long": "33.783333",
+      "abbr": "MW",
+      "continent": "Africa",
+      "flag": "mw",
+      "type": "country"
+    },
+    {
+      "name": "Malaysia",
+      "capital": "Kuala Lumpur",
+      "lat": "3.1666666666666665",
+      "long": "101.700000",
+      "abbr": "MY",
+      "continent": "Asia",
+      "flag": "my",
+      "type": "country"
+    },
+    {
+      "name": "Maldives",
+      "capital": "Male",
+      "lat": "4.166666666666667",
+      "long": "73.500000",
+      "abbr": "MV",
+      "continent": "Asia",
+      "flag": "mv",
+      "type": "country"
+    },
+    {
+      "name": "Mali",
+      "capital": "Bamako",
+      "lat": "12.65",
+      "long": "-8.000000",
+      "abbr": "ML",
+      "continent": "Africa",
+      "flag": "ml",
+      "type": "country"
+    },
+    {
+      "name": "Malta",
+      "capital": "Valletta",
+      "lat": "35.88333333333333",
+      "long": "14.500000",
+      "abbr": "MT",
+      "continent": "Europe",
+      "flag": "mt",
+      "type": "country"
+    },
+    {
+      "name": "Marshall Islands",
+      "capital": "Majuro",
+      "lat": "7.1",
+      "long": "171.383333",
+      "abbr": "MH",
+      "continent": "Australia",
+      "flag": "mh",
+      "type": "country"
+    },
+    {
+      "name": "Mauritania",
+      "capital": "Nouakchott",
+      "lat": "18.066666666666666",
+      "long": "-15.966667",
+      "abbr": "MR",
+      "continent": "Africa",
+      "flag": "mr",
+      "type": "country"
+    },
+    {
+      "name": "Mauritius",
+      "capital": "Port Louis",
+      "lat": "-20.15",
+      "long": "57.483333",
+      "abbr": "MU",
+      "continent": "Africa",
+      "flag": "mu",
+      "type": "country"
+    },
+    {
+      "name": "Mexico",
+      "capital": "Mexico City",
+      "lat": "19.433333333333334",
+      "long": "-99.133333",
+      "abbr": "MX",
+      "continent": "Central America",
+      "flag": "mx",
+      "type": "country"
+    },
+    {
+      "name": "Federated States of Micronesia",
+      "capital": "Palikir",
+      "lat": "6.916666666666667",
+      "long": "158.150000",
+      "abbr": "FM",
+      "continent": "Australia",
+      "flag": "fm",
+      "type": "country"
+    },
+    {
+      "name": "Moldova",
+      "capital": "Chisinau",
+      "lat": "47",
+      "long": "28.850000",
+      "abbr": "MD",
+      "continent": "Europe",
+      "flag": "md",
+      "type": "country"
+    },
+    {
+      "name": "Monaco",
+      "capital": "Monaco",
+      "lat": "43.733333333333334",
+      "long": "7.416667",
+      "abbr": "MC",
+      "continent": "Europe",
+      "flag": "mc",
+      "type": "country"
+    },
+    {
+      "name": "Mongolia",
+      "capital": "Ulaanbaatar",
+      "lat": "47.916666666666664",
+      "long": "106.916667",
+      "abbr": "MN",
+      "continent": "Asia",
+      "flag": "mn",
+      "type": "country"
+    },
+    {
+      "name": "Montenegro",
+      "capital": "Podgorica",
+      "lat": "42.43333333333333",
+      "long": "19.266667",
+      "abbr": "ME",
+      "continent": "Europe",
+      "flag": "me",
+      "type": "country"
+    },
+    {
+      "name": "Montserrat",
+      "capital": "Plymouth",
+      "lat": "16.7",
+      "long": "-62.216667",
+      "abbr": "MS",
+      "continent": "North America",
+      "flag": "ms",
+      "type": "country"
+    },
+    {
+      "name": "Morocco",
+      "capital": "Rabat",
+      "lat": "34.016666666666666",
+      "long": "-6.816667",
+      "abbr": "MA",
+      "continent": "Africa",
+      "flag": "ma",
+      "type": "country"
+    },
+    {
+      "name": "Mozambique",
+      "capital": "Maputo",
+      "lat": "-25.95",
+      "long": "32.583333",
+      "abbr": "MZ",
+      "continent": "Africa",
+      "flag": "mz",
+      "type": "country"
+    },
+    {
+      "name": "Namibia",
+      "capital": "Windhoek",
+      "lat": "-22.566666666666666",
+      "long": "17.083333",
+      "abbr": "NA",
+      "continent": "Africa",
+      "flag": "na",
+      "type": "country"
+    },
+    {
+      "name": "Nepal",
+      "capital": "Kathmandu",
+      "lat": "27.716666666666665",
+      "long": "85.316667",
+      "abbr": "NP",
+      "continent": "Asia",
+      "flag": "np",
+      "type": "country"
+    },
+    {
+      "name": "Netherlands",
+      "capital": "Amsterdam",
+      "lat": "52.35",
+      "long": "4.916667",
+      "abbr": "NL",
+      "continent": "Europe",
+      "flag": "nl",
+      "type": "country"
+    },
+    {
+      "name": "New Caledonia",
+      "capital": "Noumea",
+      "lat": "-22.266666666666666",
+      "long": "166.450000",
+      "abbr": "NC",
+      "continent": "Australia",
+      "flag": "nc",
+      "type": "country"
+    },
+    {
+      "name": "New Zealand",
+      "capital": "Wellington",
+      "lat": "-41.3",
+      "long": "174.783333",
+      "abbr": "NZ",
+      "continent": "Australia",
+      "flag": "nz",
+      "type": "country"
+    },
+    {
+      "name": "Nicaragua",
+      "capital": "Managua",
+      "lat": "12.133333333333333",
+      "long": "-86.250000",
+      "abbr": "NI",
+      "continent": "Central America",
+      "flag": "ni",
+      "type": "country"
+    },
+    {
+      "name": "Niger",
+      "capital": "Niamey",
+      "lat": "13.516666666666667",
+      "long": "2.116667",
+      "abbr": "NE",
+      "continent": "Africa",
+      "flag": "ne",
+      "type": "country"
+    },
+    {
+      "name": "Nigeria",
+      "capital": "Abuja",
+      "lat": "9.083333333333334",
+      "long": "7.533333",
+      "abbr": "NG",
+      "continent": "Africa",
+      "flag": "ng",
+      "type": "country"
+    },
+    {
+      "name": "Niue",
+      "capital": "Alofi",
+      "lat": "-19.016666666666666",
+      "long": "-169.916667",
+      "abbr": "NU",
+      "continent": "Australia",
+      "flag": "nu",
+      "type": "country"
+    },
+    {
+      "name": "Norfolk Island",
+      "capital": "Kingston",
+      "lat": "-29.05",
+      "long": "167.966667",
+      "abbr": "NF",
+      "continent": "Australia",
+      "flag": "nf",
+      "type": "country"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "capital": "Saipan",
+      "lat": "15.2",
+      "long": "145.750000",
+      "abbr": "MP",
+      "continent": "Australia",
+      "flag": "mp",
+      "type": "country"
+    },
+    {
+      "name": "Norway",
+      "capital": "Oslo",
+      "lat": "59.916666666666664",
+      "long": "10.750000",
+      "abbr": "NO",
+      "continent": "Europe",
+      "flag": "no",
+      "type": "country"
+    },
+    {
+      "name": "Oman",
+      "capital": "Muscat",
+      "lat": "23.616666666666667",
+      "long": "58.583333",
+      "abbr": "OM",
+      "continent": "Asia",
+      "flag": "om",
+      "type": "country"
+    },
+    {
+      "name": "Pakistan",
+      "capital": "Islamabad",
+      "lat": "33.68333333333333",
+      "long": "73.050000",
+      "abbr": "PK",
+      "continent": "Asia",
+      "flag": "pk",
+      "type": "country"
+    },
+    {
+      "name": "Palau",
+      "capital": "Melekeok",
+      "lat": "7.483333333333333",
+      "long": "134.633333",
+      "abbr": "PW",
+      "continent": "Australia",
+      "flag": "pw",
+      "type": "country"
+    },
+    {
+      "name": "Panama",
+      "capital": "Panama City",
+      "lat": "8.966666666666667",
+      "long": "-79.533333",
+      "abbr": "PA",
+      "continent": "Central America",
+      "flag": "pa",
+      "type": "country"
+    },
+    {
+      "name": "Papua New Guinea",
+      "capital": "Port Moresby",
+      "lat": "-9.45",
+      "long": "147.183333",
+      "abbr": "PG",
+      "continent": "Australia",
+      "flag": "pg",
+      "type": "country"
+    },
+    {
+      "name": "Paraguay",
+      "capital": "Asuncion",
+      "lat": "-25.266666666666666",
+      "long": "-57.666667",
+      "abbr": "PY",
+      "continent": "South America",
+      "flag": "py",
+      "type": "country"
+    },
+    {
+      "name": "Peru",
+      "capital": "Lima",
+      "lat": "-12.05",
+      "long": "-77.050000",
+      "abbr": "PE",
+      "continent": "South America",
+      "flag": "pe",
+      "type": "country"
+    },
+    {
+      "name": "Philippines",
+      "capital": "Manila",
+      "lat": "14.6",
+      "long": "120.966667",
+      "abbr": "PH",
+      "continent": "Asia",
+      "flag": "ph",
+      "type": "country"
+    },
+    {
+      "name": "Pitcairn Islands",
+      "capital": "Adamstown",
+      "lat": "-25.066666666666666",
+      "long": "-130.083333",
+      "abbr": "PN",
+      "continent": "Australia",
+      "flag": "pn",
+      "type": "country"
+    },
+    {
+      "name": "Poland",
+      "capital": "Warsaw",
+      "lat": "52.25",
+      "long": "21.000000",
+      "abbr": "PL",
+      "continent": "Europe",
+      "flag": "pl",
+      "type": "country"
+    },
+    {
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "lat": "38.71666666666667",
+      "long": "-9.133333",
+      "abbr": "PT",
+      "continent": "Europe",
+      "flag": "pt",
+      "type": "country"
+    },
+    {
+      "name": "Puerto Rico",
+      "capital": "San Juan",
+      "lat": "18.466666666666665",
+      "long": "-66.116667",
+      "abbr": "PR",
+      "continent": "North America",
+      "flag": "pr",
+      "type": "country"
+    },
+    {
+      "name": "Qatar",
+      "capital": "Doha",
+      "lat": "25.283333333333335",
+      "long": "51.533333",
+      "abbr": "QA",
+      "continent": "Asia",
+      "flag": "qa",
+      "type": "country"
+    },
+    {
+      "name": "Romania",
+      "capital": "Bucharest",
+      "lat": "44.43333333333333",
+      "long": "26.100000",
+      "abbr": "RO",
+      "continent": "Europe",
+      "flag": "ro",
+      "type": "country"
+    },
+    {
+      "name": "Russia",
+      "capital": "Moscow",
+      "lat": "55.75",
+      "long": "37.600000",
+      "abbr": "RU",
+      "continent": "Europe",
+      "flag": "ru",
+      "type": "country"
+    },
+    {
+      "name": "Rwanda",
+      "capital": "Kigali",
+      "lat": "-1.95",
+      "long": "30.050000",
+      "abbr": "RW",
+      "continent": "Africa",
+      "flag": "rw",
+      "type": "country"
+    },
+    {
+      "name": "Saint Barthelemy",
+      "capital": "Gustavia",
+      "lat": "17.883333333333333",
+      "long": "-62.850000",
+      "abbr": "BL",
+      "continent": "North America",
+      "flag": "bl",
+      "type": "country"
+    },
+    {
+      "name": "Saint Helena",
+      "capital": "Jamestown",
+      "lat": "-15.933333333333334",
+      "long": "-5.716667",
+      "abbr": "SH",
+      "continent": "Africa",
+      "flag": "sh",
+      "type": "country"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "capital": "Basseterre",
+      "lat": "17.3",
+      "long": "-62.716667",
+      "abbr": "KN",
+      "continent": "North America",
+      "flag": "kn",
+      "type": "country"
+    },
+    {
+      "name": "Saint Lucia",
+      "capital": "Castries",
+      "lat": "14",
+      "long": "-61.000000",
+      "abbr": "LC",
+      "continent": "North America",
+      "flag": "lc",
+      "type": "country"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "capital": "Saint-Pierre",
+      "lat": "46.766666666666666",
+      "long": "-56.183333",
+      "abbr": "PM",
+      "continent": "Central America",
+      "flag": "pm",
+      "type": "country"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "capital": "Kingstown",
+      "lat": "13.133333333333333",
+      "long": "-61.216667",
+      "abbr": "VC",
+      "continent": "Central America",
+      "flag": "vc",
+      "type": "country"
+    },
+    {
+      "name": "Samoa",
+      "capital": "Apia",
+      "lat": "-13.816666666666666",
+      "long": "-171.766667",
+      "abbr": "WS",
+      "continent": "Australia",
+      "flag": "ws",
+      "type": "country"
+    },
+    {
+      "name": "San Marino",
+      "capital": "San Marino",
+      "lat": "43.93333333333333",
+      "long": "12.416667",
+      "abbr": "SM",
+      "continent": "Europe",
+      "flag": "sm",
+      "type": "country"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "capital": "Sao Tome",
+      "lat": "0.3333333333333333",
+      "long": "6.733333",
+      "abbr": "ST",
+      "continent": "Africa",
+      "flag": "st",
+      "type": "country"
+    },
+    {
+      "name": "Saudi Arabia",
+      "capital": "Riyadh",
+      "lat": "24.65",
+      "long": "46.700000",
+      "abbr": "SA",
+      "continent": "Asia",
+      "flag": "sa",
+      "type": "country"
+    },
+    {
+      "name": "Senegal",
+      "capital": "Dakar",
+      "lat": "14.733333333333333",
+      "long": "-17.633333",
+      "abbr": "SN",
+      "continent": "Africa",
+      "flag": "sn",
+      "type": "country"
+    },
+    {
+      "name": "Serbia",
+      "capital": "Belgrade",
+      "lat": "44.833333333333336",
+      "long": "20.500000",
+      "abbr": "RS",
+      "continent": "Europe",
+      "flag": "rs",
+      "type": "country"
+    },
+    {
+      "name": "Seychelles",
+      "capital": "Victoria",
+      "lat": "-4.616666666666667",
+      "long": "55.450000",
+      "abbr": "SC",
+      "continent": "Africa",
+      "flag": "sc",
+      "type": "country"
+    },
+    {
+      "name": "Sierra Leone",
+      "capital": "Freetown",
+      "lat": "8.483333333333333",
+      "long": "-13.233333",
+      "abbr": "SL",
+      "continent": "Africa",
+      "flag": "sl",
+      "type": "country"
+    },
+    {
+      "name": "Singapore",
+      "capital": "Singapore",
+      "lat": "1.2833333333333332",
+      "long": "103.850000",
+      "abbr": "SG",
+      "continent": "Asia",
+      "flag": "sg",
+      "type": "country"
+    },
+    {
+      "name": "Sint Maarten",
+      "capital": "Philipsburg",
+      "lat": "18.016666666666666",
+      "long": "-63.033333",
+      "abbr": "SX",
+      "continent": "North America",
+      "flag": "sx",
+      "type": "country"
+    },
+    {
+      "name": "Slovakia",
+      "capital": "Bratislava",
+      "lat": "48.15",
+      "long": "17.116667",
+      "abbr": "SK",
+      "continent": "Europe",
+      "flag": "sk",
+      "type": "country"
+    },
+    {
+      "name": "Slovenia",
+      "capital": "Ljubljana",
+      "lat": "46.05",
+      "long": "14.516667",
+      "abbr": "SI",
+      "continent": "Europe",
+      "flag": "si",
+      "type": "country"
+    },
+    {
+      "name": "Solomon Islands",
+      "capital": "Honiara",
+      "lat": "-9.433333333333334",
+      "long": "159.950000",
+      "abbr": "SB",
+      "continent": "Australia",
+      "flag": "sb",
+      "type": "country"
+    },
+    {
+      "name": "Somalia",
+      "capital": "Mogadishu",
+      "lat": "2.066666666666667",
+      "long": "45.333333",
+      "abbr": "SO",
+      "continent": "Africa",
+      "flag": "so",
+      "type": "country"
+    },
+    {
+      "name": "South Africa",
+      "capital": "Pretoria",
+      "lat": "-25.7",
+      "long": "28.216667",
+      "abbr": "ZA",
+      "continent": "Africa",
+      "flag": "za",
+      "type": "country"
+    },
+    {
+      "name": "South Sudan",
+      "capital": "Juba",
+      "lat": "4.85",
+      "long": "31.616667",
+      "abbr": "SS",
+      "continent": "Africa",
+      "flag": "ss",
+      "type": "country"
+    },
+    {
+      "name": "Spain",
+      "capital": "Madrid",
+      "lat": "40.4",
+      "long": "-3.683333",
+      "abbr": "ES",
+      "continent": "Europe",
+      "flag": "es",
+      "type": "country"
+    },
+    {
+      "name": "Sri Lanka",
+      "capital": "Colombo",
+      "lat": "6.916666666666667",
+      "long": "79.833333",
+      "abbr": "LK",
+      "continent": "Asia",
+      "flag": "lk",
+      "type": "country"
+    },
+    {
+      "name": "Sudan",
+      "capital": "Khartoum",
+      "lat": "15.6",
+      "long": "32.533333",
+      "abbr": "SD",
+      "continent": "Africa",
+      "flag": "sd",
+      "type": "country"
+    },
+    {
+      "name": "Suriname",
+      "capital": "Paramaribo",
+      "lat": "5.833333333333333",
+      "long": "-55.166667",
+      "abbr": "SR",
+      "continent": "South America",
+      "flag": "sr",
+      "type": "country"
+    },
+    {
+      "name": "Svalbard",
+      "capital": "Longyearbyen",
+      "lat": "78.21666666666667",
+      "long": "15.633333",
+      "abbr": "SJ",
+      "continent": "Europe",
+      "flag": "sj",
+      "type": "country"
+    },
+    {
+      "name": "Swaziland",
+      "capital": "Mbabane",
+      "lat": "-26.316666666666666",
+      "long": "31.133333",
+      "abbr": "SZ",
+      "continent": "Africa",
+      "flag": "sz",
+      "type": "country"
+    },
+    {
+      "name": "Sweden",
+      "capital": "Stockholm",
+      "lat": "59.333333333333336",
+      "long": "18.050000",
+      "abbr": "SE",
+      "continent": "Europe",
+      "flag": "se",
+      "type": "country"
+    },
+    {
+      "name": "Switzerland",
+      "capital": "Bern",
+      "lat": "46.916666666666664",
+      "long": "7.466667",
+      "abbr": "CH",
+      "continent": "Europe",
+      "flag": "ch",
+      "type": "country"
+    },
+    {
+      "name": "Syria",
+      "capital": "Damascus",
+      "lat": "33.5",
+      "long": "36.300000",
+      "abbr": "SY",
+      "continent": "Asia",
+      "flag": "sy",
+      "type": "country"
+    },
+    {
+      "name": "Taiwan",
+      "capital": "Taipei",
+      "lat": "25.033333333333335",
+      "long": "121.516667",
+      "abbr": "TW",
+      "continent": "Asia",
+      "flag": "tw",
+      "type": "country"
+    },
+    {
+      "name": "Tajikistan",
+      "capital": "Dushanbe",
+      "lat": "38.55",
+      "long": "68.766667",
+      "abbr": "TJ",
+      "continent": "Asia",
+      "flag": "tj",
+      "type": "country"
+    },
+    {
+      "name": "Tanzania",
+      "capital": "Dar es Salaam",
+      "lat": "-6.8",
+      "long": "39.283333",
+      "abbr": "TZ",
+      "continent": "Africa",
+      "flag": "tz",
+      "type": "country"
+    },
+    {
+      "name": "Thailand",
+      "capital": "Bangkok",
+      "lat": "13.75",
+      "long": "100.516667",
+      "abbr": "TH",
+      "continent": "Asia",
+      "flag": "th",
+      "type": "country"
+    },
+    {
+      "name": "Timor-Leste",
+      "capital": "Dili",
+      "lat": "-8.583333333333334",
+      "long": "125.600000",
+      "abbr": "TL",
+      "continent": "Asia",
+      "flag": "tl",
+      "type": "country"
+    },
+    {
+      "name": "Togo",
+      "capital": "Lome",
+      "lat": "6.116666666666666",
+      "long": "1.216667",
+      "abbr": "TG",
+      "continent": "Africa",
+      "flag": "tg",
+      "type": "country"
+    },
+    {
+      "name": "Tonga",
+      "capital": "Nuku'alofa",
+      "lat": "-21.133333333333333",
+      "long": "-175.200000",
+      "abbr": "TO",
+      "continent": "Australia",
+      "flag": "to",
+      "type": "country"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "capital": "Port of Spain",
+      "lat": "10.65",
+      "long": "-61.516667",
+      "abbr": "TT",
+      "continent": "North America",
+      "flag": "tt",
+      "type": "country"
+    },
+    {
+      "name": "Tunisia",
+      "capital": "Tunis",
+      "lat": "36.8",
+      "long": "10.183333",
+      "abbr": "TN",
+      "continent": "Africa",
+      "flag": "tn",
+      "type": "country"
+    },
+    {
+      "name": "Turkey",
+      "capital": "Ankara",
+      "lat": "39.93333333333333",
+      "long": "32.866667",
+      "abbr": "TR",
+      "continent": "Europe",
+      "flag": "tr",
+      "type": "country"
+    },
+    {
+      "name": "Turkmenistan",
+      "capital": "Ashgabat",
+      "lat": "37.95",
+      "long": "58.383333",
+      "abbr": "TM",
+      "continent": "Asia",
+      "flag": "tm",
+      "type": "country"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "capital": "Grand Turk",
+      "lat": "21.466666666666665",
+      "long": "-71.133333",
+      "abbr": "TC",
+      "continent": "North America",
+      "flag": "tc",
+      "type": "country"
+    },
+    {
+      "name": "Tuvalu",
+      "capital": "Funafuti",
+      "lat": "-8.516666666666667",
+      "long": "179.216667",
+      "abbr": "TV",
+      "continent": "Australia",
+      "flag": "tv",
+      "type": "country"
+    },
+    {
+      "name": "Uganda",
+      "capital": "Kampala",
+      "lat": "0.31666666666666665",
+      "long": "32.550000",
+      "abbr": "UG",
+      "continent": "Africa",
+      "flag": "ug",
+      "type": "country"
+    },
+    {
+      "name": "Ukraine",
+      "capital": "Kyiv",
+      "lat": "50.43333333333333",
+      "long": "30.516667",
+      "abbr": "UA",
+      "continent": "Europe",
+      "flag": "ua",
+      "type": "country"
+    },
+    {
+      "name": "United Arab Emirates",
+      "capital": "Abu Dhabi",
+      "lat": "24.466666666666665",
+      "long": "54.366667",
+      "abbr": "AE",
+      "continent": "Asia",
+      "flag": "ae",
+      "type": "country"
+    },
+    {
+      "name": "United Kingdom",
+      "capital": "London",
+      "lat": "51.5",
+      "long": "-0.083333",
+      "abbr": "GB",
+      "continent": "Europe",
+      "flag": "gb",
+      "type": "country"
+    },
+    {
+      "name": "United States",
+      "capital": "Washington DC",
+      "lat": "38.883333",
+      "long": "-77.000000",
+      "abbr": "US",
+      "continent": "North America",
+      "flag": "us",
+      "type": "country"
+    },
+    {
+      "name": "Uruguay",
+      "capital": "Montevideo",
+      "lat": "-34.85",
+      "long": "-56.166667",
+      "abbr": "UY",
+      "continent": "South America",
+      "flag": "uy",
+      "type": "country"
+    },
+    {
+      "name": "Uzbekistan",
+      "capital": "Tashkent",
+      "lat": "41.31666666666667",
+      "long": "69.250000",
+      "abbr": "UZ",
+      "continent": "Asia",
+      "flag": "uz",
+      "type": "country"
+    },
+    {
+      "name": "Vanuatu",
+      "capital": "Port-Vila",
+      "lat": "-17.733333333333334",
+      "long": "168.316667",
+      "abbr": "VU",
+      "continent": "Australia",
+      "flag": "vu",
+      "type": "country"
+    },
+    {
+      "name": "Venezuela",
+      "capital": "Caracas",
+      "lat": "10.483333333333333",
+      "long": "-66.866667",
+      "abbr": "VE",
+      "continent": "South America",
+      "flag": "ve",
+      "type": "country"
+    },
+    {
+      "name": "Vietnam",
+      "capital": "Hanoi",
+      "lat": "21.033333333333335",
+      "long": "105.850000",
+      "abbr": "VN",
+      "continent": "Asia",
+      "flag": "vn",
+      "type": "country"
+    },
+    {
+      "name": "US Virgin Islands",
+      "capital": "Charlotte Amalie",
+      "lat": "18.35",
+      "long": "-64.933333",
+      "abbr": "VI",
+      "continent": "North America",
+      "flag": "vi",
+      "type": "country"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "capital": "Mata-Utu",
+      "lat": "-13.95",
+      "long": "-171.933333",
+      "abbr": "WF",
+      "continent": "Australia",
+      "flag": "wf",
+      "type": "country"
+    },
+    {
+      "name": "Yemen",
+      "capital": "Sanaa",
+      "lat": "15.35",
+      "long": "44.200000",
+      "abbr": "YE",
+      "continent": "Asia",
+      "flag": "ye",
+      "type": "country"
+    },
+    {
+      "name": "Zambia",
+      "capital": "Lusaka",
+      "lat": "-15.416666666666666",
+      "long": "28.283333",
+      "abbr": "ZM",
+      "continent": "Africa",
+      "flag": "zm",
+      "type": "country"
+    },
+    {
+      "name": "Zimbabwe",
+      "capital": "Harare",
+      "lat": "-17.816666666666666",
+      "long": "31.033333",
+      "abbr": "ZW",
+      "continent": "Africa",
+      "flag": "zw",
+      "type": "country"
+    },
+    {
+      "name": "US Minor Outlying Islands",
+      "capital": "Washington",
+      "lat": "38.883333",
+      "long": "-77.000000",
+      "abbr": "UM",
+      "continent": "North America",
+      "flag": "um",
+      "type": "country"
+    },
+    {
+      "name": "Antarctica",
+      "capital": "N/A",
+      "lat": "90",
+      "long": "0.000000",
+      "abbr": "AQ",
+      "continent": "Antarctica",
+      "flag": "aq",
+      "type": "country"
+    },
+    {
+      "name": "Northern Cyprus",
+      "capital": "North Nicosia",
+      "lat": "35.183333",
+      "long": "33.366667",
+      "abbr": "NULL",
+      "continent": "Europe",
+      "flag": "cy",
+      "type": "country"
+    },
+    {
+      "name": "Hong Kong",
+      "capital": "N/A",
+      "lat": "22.3193",
+      "long": "114.1694",
+      "abbr": "HK",
+      "continent": "Asia",
+      "flag": "hk",
+      "type": "country"
+    },
+    {
+      "name": "Heard Island and McDonald Islands",
+      "capital": "N/A",
+      "lat": "53.0818",
+      "long": "73.5042",
+      "abbr": "HM",
+      "continent": "Antarctica",
+      "flag": "hm",
+      "type": "country"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "capital": "Diego Garcia",
+      "lat": "-7.3",
+      "long": "72.400000",
+      "abbr": "IO",
+      "continent": "Africa",
+      "flag": "io",
+      "type": "country"
+    },
+    {
+      "name": "Macau",
+      "capital": "N/A",
+      "lat": "22.1987",
+      "long": "113.5439",
+      "abbr": "MO",
+      "continent": "Asia",
+      "flag": "mo",
+      "type": "country"
+    }
+]
+
