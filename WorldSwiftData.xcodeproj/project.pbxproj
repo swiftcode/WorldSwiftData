@@ -51,7 +51,7 @@
 		E52579BE2AE97E04000A740D /* WorldSwiftDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldSwiftDataUITests.swift; sourceTree = "<group>"; };
 		E52579C02AE97E04000A740D /* WorldSwiftDataUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldSwiftDataUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		E52579CF2AE988B4000A740D /* world.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = world.json; sourceTree = "<group>"; };
-		E52579D12AE988CA000A740D /* Geography.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Geography.swift; sourceTree = "<group>"; };
+		E52579D12AE988CA000A740D /* Geography.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Geography.swift; sourceTree = "<group>"; usesTabs = 0; };
 		E52579D22AE988CA000A740D /* AnswerPool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswerPool.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 

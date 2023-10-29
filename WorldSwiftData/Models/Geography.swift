@@ -9,66 +9,56 @@ import Foundation
 import SwiftData
 
 // MARK: - GeographyElement
-@Model
+//@Model
 class GeographyElement {
-    let name, capital, lat, long: String
-    let abbr: String
-    let continent: Continent
-    let flag: String
-    let type: String
+    let name: String = ""
+    let capital: String = ""
+    let lat: String = ""
+    let long: String = ""
+    let abbr: String = ""
+    let continent: String = ""
+    let flag: String = ""
+    let type: String = ""
     
-
-    
-    
-}
-
-// MARK: GeographyElement convenience initializers and mutators
-
-extension GeographyElement {
-//    init(data: Data) throws {
-//        self = try newJSONDecoder().decode(GeographyElement.self, from: data)
-//    }
-//
-//    init(_ json: String, using encoding: String.Encoding = .utf8) throws {
-//        guard let data = json.data(using: encoding) else {
-//            throw NSError(domain: "JSONDecoding", code: 0, userInfo: nil)
-//        }
-//        try self.init(data: data)
-//    }
-//
-//    convenience init(fromURL url: URL) throws {
-//        try self.init(data: try Data(contentsOf: url))
+//    init(name: String, capital: String, lat: String, long: String, abbr: String, continent: String, flag: String, type: String) {
+//        self.name = name
+//        self.capital = capital
+//        self.lat = lat
+//        self.long = long
+//        self.abbr = abbr
+//        self.continent = continent
+//        self.flag = flag
+//        self.type = type
 //    }
 
-//    func with(
-//        name: String? = nil,
-//        capital: String? = nil,
-//        lat: String? = nil,
-//        long: String? = nil,
-//        abbr: String? = nil,
-//        continent: Continent? = nil,
-//        flag: String? = nil,
-//        type: String? = nil
-//    ) -> GeographyElement {
-//        return GeographyElement(
-//            name: name ?? self.name,
-//            capital: capital ?? self.capital,
-//            lat: lat ?? self.lat,
-//            long: long ?? self.long,
-//            abbr: abbr ?? self.abbr,
-//            continent: continent ?? self.continent,
-//            flag: flag ?? self.flag,
-//            type: type ?? self.type
-//        )
-//    }
+    init() {
+        if let path = Bundle.main.path(forResource: "world", ofType: "json") {
+            do {
+                let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
+                print("data is ]-----> \(String(describing: String(data: data, encoding: .utf8)))")
+                
+                let result = try JSONSerialization.jsonObject(with: data, options: .allowFragments)
+                print("result is ]-----> \(result)")
+                
+                guard let json = result as? [[String : AnyObject]] else { return }
+                print("json is ]-----> \(json)")
+                
+//                for countryJson in json {
+//                    var dict: [String : String] = [:]
+//                    
+//                    guard let key = countryJson.name,
+//                          let value = countryJson["code"] else { return }
 //
-//    func jsonData() throws -> Data {
-//        return try newJSONEncoder().encode(self)
-//    }
-//
-//    func jsonString(encoding: String.Encoding = .utf8) throws -> String? {
-//        return String(data: try self.jsonData(), encoding: encoding)
-//    }
+//                    guard let strKey = key as? String else { return }
+//                    
+//                    dict[strKey] = value as? String
+//                    countries.append(dict)
+//                }
+             } catch {
+                print("Error parsing Country JSON information.")
+            }
+        }
+    }
 }
 
 enum Continent: String, Codable {
@@ -85,31 +75,6 @@ enum Continent: String, Codable {
 }
 
 typealias Geography = [GeographyElement]
-
-extension Array where Element == Geography.Element {
-    init(data: Data) throws {
-        self = try newJSONDecoder().decode(Geography.self, from: data)
-    }
-
-    init(_ json: String, using encoding: String.Encoding = .utf8) throws {
-        guard let data = json.data(using: encoding) else {
-            throw NSError(domain: "JSONDecoding", code: 0, userInfo: nil)
-        }
-        try self.init(data: data)
-    }
-
-    init(fromURL url: URL) throws {
-        try self.init(data: try Data(contentsOf: url))
-    }
-
-    func jsonData() throws -> Data {
-        return try newJSONEncoder().encode(self)
-    }
-
-    func jsonString(encoding: String.Encoding = .utf8) throws -> String? {
-        return String(data: try self.jsonData(), encoding: encoding)
-    }
-}
 
 // MARK: - Helper functions for creating encoders and decoders
 func newJSONDecoder() -> JSONDecoder {
