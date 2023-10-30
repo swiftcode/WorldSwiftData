@@ -15,6 +15,10 @@
 		E52579B52AE97E04000A740D /* WorldSwiftDataTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52579B42AE97E04000A740D /* WorldSwiftDataTests.swift */; };
 		E52579BF2AE97E04000A740D /* WorldSwiftDataUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52579BE2AE97E04000A740D /* WorldSwiftDataUITests.swift */; };
 		E52579C12AE97E04000A740D /* WorldSwiftDataUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52579C02AE97E04000A740D /* WorldSwiftDataUITestsLaunchTests.swift */; };
+		E52579D02AE988B4000A740D /* world.json in Resources */ = {isa = PBXBuildFile; fileRef = E52579CF2AE988B4000A740D /* world.json */; };
+		E52579D32AE988CA000A740D /* Geography.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52579D12AE988CA000A740D /* Geography.swift */; };
+		E52579D42AE988CA000A740D /* AnswerPool.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52579D22AE988CA000A740D /* AnswerPool.swift */; };
+		E5F25A3C2AF0386300B88B59 /* DatabaseService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F25A3B2AF0386300B88B59 /* DatabaseService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		E52579BA2AE97E04000A740D /* WorldSwiftDataUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WorldSwiftDataUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E52579BE2AE97E04000A740D /* WorldSwiftDataUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldSwiftDataUITests.swift; sourceTree = "<group>"; };
 		E52579C02AE97E04000A740D /* WorldSwiftDataUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldSwiftDataUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E52579CF2AE988B4000A740D /* world.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = world.json; sourceTree = "<group>"; };
+		E52579D12AE988CA000A740D /* Geography.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Geography.swift; sourceTree = "<group>"; usesTabs = 0; };
+		E52579D22AE988CA000A740D /* AnswerPool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswerPool.swift; sourceTree = "<group>"; };
+		E5F25A3B2AF0386300B88B59 /* DatabaseService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +105,7 @@
 		E525799C2AE97E03000A740D /* WorldSwiftData */ = {
 			isa = PBXGroup;
 			children = (
+				E52579CE2AE98867000A740D /* Models */,
 				E52579CD2AE9852E000A740D /* Resources */,
 				E525799D2AE97E03000A740D /* AppDelegate.swift */,
 				E525799F2AE97E03000A740D /* SceneDelegate.swift */,
@@ -104,6 +113,7 @@
 				E52579A62AE97E04000A740D /* Assets.xcassets */,
 				E52579A82AE97E04000A740D /* LaunchScreen.storyboard */,
 				E52579AB2AE97E04000A740D /* Info.plist */,
+				E5F25A3B2AF0386300B88B59 /* DatabaseService.swift */,
 			);
 			path = WorldSwiftData;
 			sourceTree = "<group>";
@@ -128,8 +138,18 @@
 		E52579CD2AE9852E000A740D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				E52579CF2AE988B4000A740D /* world.json */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		E52579CE2AE98867000A740D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				E52579D22AE988CA000A740D /* AnswerPool.swift */,
+				E52579D12AE988CA000A740D /* Geography.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,6 +256,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E52579D02AE988B4000A740D /* world.json in Resources */,
 				E52579AA2AE97E04000A740D /* LaunchScreen.storyboard in Resources */,
 				E52579A72AE97E04000A740D /* Assets.xcassets in Resources */,
 			);
@@ -262,8 +283,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5F25A3C2AF0386300B88B59 /* DatabaseService.swift in Sources */,
+				E52579D32AE988CA000A740D /* Geography.swift in Sources */,
 				E52579A22AE97E03000A740D /* ViewController.swift in Sources */,
 				E525799E2AE97E03000A740D /* AppDelegate.swift in Sources */,
+				E52579D42AE988CA000A740D /* AnswerPool.swift in Sources */,
 				E52579A02AE97E03000A740D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

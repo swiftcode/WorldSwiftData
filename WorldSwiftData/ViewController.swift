@@ -6,11 +6,14 @@
 //
 
 import UIKit
+import SwiftData
 
 class ViewController: UIViewController {
+    var container: ModelContainer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemMint
+        let x = GeographyElement()
     }
 }
