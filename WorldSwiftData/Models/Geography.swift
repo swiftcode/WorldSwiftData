@@ -9,9 +9,9 @@ import Foundation
 import SwiftData
 
 // MARK: - GeographyElement
-//@Model
+@Model
 class GeographyElement {
-    let name: String = ""
+    @Attribute(.unique) let name: String = ""
     let capital: String = ""
     let lat: String = ""
     let long: String = ""
@@ -19,6 +19,11 @@ class GeographyElement {
     let continent: String = ""
     let flag: String = ""
     let type: String = ""
+    
+    typealias dict = [String: AnyObject]
+    
+    var stateCount: Int = 0
+    var countryCount: Int = 0
     
 //    init(name: String, capital: String, lat: String, long: String, abbr: String, continent: String, flag: String, type: String) {
 //        self.name = name
@@ -35,28 +40,30 @@ class GeographyElement {
         if let path = Bundle.main.path(forResource: "world", ofType: "json") {
             do {
                 let data = try Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe)
-                print("data is ]-----> \(String(describing: String(data: data, encoding: .utf8)))")
                 
                 let result = try JSONSerialization.jsonObject(with: data, options: .allowFragments)
                 print("result is ]-----> \(result)")
                 
-                guard let json = result as? [[String : AnyObject]] else { return }
-                print("json is ]-----> \(json)")
+                guard let location = result as? [dict] else { return }
+                print("json is ]-----> \(location)")
                 
-//                for countryJson in json {
-//                    var dict: [String : String] = [:]
-//                    
-//                    guard let key = countryJson.name,
-//                          let value = countryJson["code"] else { return }
-//
-//                    guard let strKey = key as? String else { return }
-//                    
-//                    dict[strKey] = value as? String
-//                    countries.append(dict)
-//                }
+                for loc in location {
+                    if loc["type"] as! String == "state" {
+                        stateCount += 1
+                    }
+                    
+                    if loc["type"] as! String == "country" {
+                        countryCount += 1
+                    }
+                    
+                    print("loc: \(loc)")
+                }
              } catch {
-                print("Error parsing Country JSON information.")
+                print("Error parsing JSON information.")
             }
+            
+            print("Number of states: \(stateCount)")
+            print("Number of countries: \(countryCount)")
         }
     }
 }

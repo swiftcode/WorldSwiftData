@@ -18,6 +18,7 @@
 		E52579D02AE988B4000A740D /* world.json in Resources */ = {isa = PBXBuildFile; fileRef = E52579CF2AE988B4000A740D /* world.json */; };
 		E52579D32AE988CA000A740D /* Geography.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52579D12AE988CA000A740D /* Geography.swift */; };
 		E52579D42AE988CA000A740D /* AnswerPool.swift in Sources */ = {isa = PBXBuildFile; fileRef = E52579D22AE988CA000A740D /* AnswerPool.swift */; };
+		E5F25A3C2AF0386300B88B59 /* DatabaseService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5F25A3B2AF0386300B88B59 /* DatabaseService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		E52579CF2AE988B4000A740D /* world.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = world.json; sourceTree = "<group>"; };
 		E52579D12AE988CA000A740D /* Geography.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Geography.swift; sourceTree = "<group>"; usesTabs = 0; };
 		E52579D22AE988CA000A740D /* AnswerPool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnswerPool.swift; sourceTree = "<group>"; };
+		E5F25A3B2AF0386300B88B59 /* DatabaseService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				E52579A62AE97E04000A740D /* Assets.xcassets */,
 				E52579A82AE97E04000A740D /* LaunchScreen.storyboard */,
 				E52579AB2AE97E04000A740D /* Info.plist */,
+				E5F25A3B2AF0386300B88B59 /* DatabaseService.swift */,
 			);
 			path = WorldSwiftData;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5F25A3C2AF0386300B88B59 /* DatabaseService.swift in Sources */,
 				E52579D32AE988CA000A740D /* Geography.swift in Sources */,
 				E52579A22AE97E03000A740D /* ViewController.swift in Sources */,
 				E525799E2AE97E03000A740D /* AppDelegate.swift in Sources */,
